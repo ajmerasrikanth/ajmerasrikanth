@@ -15,9 +15,11 @@
 - Exploratory Data Analysis (EDA)
 
 ## Projects
-- Fraud Detection Using Machine Learning
-- Android App Market Analysis
-- Customer Segmentation Analysis
+- [Fraud Detection Using Machine Learning](https://github.com/ajmerasrikanth/Data-Analytics-Projects/tree/main/Fraud-Detection)
+
+- [Android App Market Analysis](https://github.com/ajmerasrikanth/Data-Analytics-Projects/tree/main/Android-App-Market-Analysis)
+
+- [Customer Segmentation Analysis](https://github.com/ajmerasrikanth/Data-Analytics-Projects/tree/main/Customer-Segmentation)
 
 ## Currently Learning
 - SQL
