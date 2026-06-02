@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ajmera Srikanth 👋
 
-<!--
-**ajmerasrikanth/ajmerasrikanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Data Analytics Enthusiast
+- Learning Python, Pandas, NumPy, and SQL
+- Interested in Data Analytics, Business Analytics, AI, and Technology
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Fraud Detection Using Machine Learning
+- Android App Market Analysis
+- Customer Segmentation Analysis
+
+## Currently Learning
+- SQL
+- Advanced Python
+- Data Visualization
+
+## GitHub Portfolio
+📂 Data Analytics Projects:
+https://github.com/ajmerasrikanth/Data-Analytics-Projects
+
+## Goals for 2026
+- Strengthen Python skills
+- Build more Data Analytics projects
+- Learn SQL deeply
+- Become job-ready in Data Analytics
